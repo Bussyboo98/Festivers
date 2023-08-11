@@ -441,5 +441,8 @@ footer .container .row1{
     .plan-box{
         margin-top: 5%;
     }
+    .contact-sect form{
+        width: 100%;
+    }
     
 }
